@@ -1,0 +1,5 @@
+require 'sinatra'
+require 'sinatra/reloader'
+require 'rspec'
+require 'nokogiri'
+require 'rack'
